@@ -15,7 +15,12 @@ public extension Coleccion {
     typealias Elemento = Element
     
     ///
-    var cuenta: Int {
+    var primero: Elemento? {
+        self.first
+    }
+    
+    ///
+    var cuenta: Ent {
         self.count
     }
 }
