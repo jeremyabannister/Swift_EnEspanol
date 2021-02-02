@@ -13,4 +13,9 @@ public extension Coleccion {
     
     ///
     typealias Elemento = Element
+    
+    ///
+    var cuenta: Int {
+        self.count
+    }
 }
