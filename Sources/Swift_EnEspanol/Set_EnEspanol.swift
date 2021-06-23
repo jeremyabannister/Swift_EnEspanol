@@ -1,15 +1,15 @@
 //
-//  Set_EnEspanol.swift
+//  Conjunto_EnEspanol.swift
 //  
 //
 //  Created by Jeremy Bannister on 2/1/21.
 //
 
 ///
-public typealias Juego = Set
+public typealias Conjunto = Set
 
 ///
-public extension Juego {
+public extension Conjunto {
     
     ///
     func contiene (_ miembro: Elemento) -> Bool {
