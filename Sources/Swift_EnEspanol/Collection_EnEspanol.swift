@@ -6,10 +6,10 @@
 //
 
 ///
-public typealias Coleccion = Collection
+public typealias Colección = Collection
 
 ///
-public extension Coleccion {
+public extension Colección {
     
     ///
     typealias Elemento = Element
